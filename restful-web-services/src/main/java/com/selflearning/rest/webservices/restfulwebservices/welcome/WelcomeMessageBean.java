@@ -1,4 +1,4 @@
-package com.selflearning.rest.webservices.restfulwebservices;
+package com.selflearning.rest.webservices.restfulwebservices.welcome;
 
 public class WelcomeMessageBean {
 

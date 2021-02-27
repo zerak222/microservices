@@ -1,4 +1,4 @@
-package com.selflearning.rest.webservices.restfulwebservices;
+package com.selflearning.rest.webservices.restfulwebservices.welcome;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
